@@ -1,0 +1,8 @@
+# public profile: only the README and the drawing are tracked
+/*
+!/README.md
+!/.gitignore
+!/assets/
+/assets/*
+!/assets/vvg-crayon.svg
+!/assets/vvg-crayon-dark.svg
